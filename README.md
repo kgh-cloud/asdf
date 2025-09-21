@@ -1,1 +1,6 @@
 aHR0cHM6Ly93d3cubm90aW9uLnNvL2FzZGZqaGFzamtkbGZoamtsYWRzaGZqa2xhaGRzamtmaGFzZGprbGZoamthZHNsaGZqay9zc2gtYWdlbnQtMjc0ODk0YjcxNzU3ODBmOTlhNWZlOWY4NGY2YjA5OGI/c291cmNlPWNvcHlfbGluaw==
+
+
+
+
+terraform import helm_release.argocd argocd/argocd
